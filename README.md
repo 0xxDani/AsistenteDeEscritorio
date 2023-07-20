@@ -48,9 +48,8 @@ Este es un proyecto de asistente virtual desarrollado en Python. El asistente pu
 
 
 
-#### NOTA: SI EN CASO TAL LA LIBRERÍA 'dotenv' PRESENTA LÍOS PARA INSTALAR, UTILIZAR ESTE COMANDO ADICIONAL EN LA CONSOLA:   python -m 
-
--   pip install python-dotenv
+#### NOTA: SI EN CASO TAL LA LIBRERÍA 'dotenv' PRESENTA LÍOS PARA INSTALAR, UTILIZAR ESTE COMANDO ADICIONAL EN LA CONSOLA:
+-      python -m pip install python-dotenv
 
 
  
