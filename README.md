@@ -49,6 +49,6 @@ Este es un proyecto de asistente virtual desarrollado en Python. El asistente pu
 #### NOTA: SI EN CASO TAL LA LIBRERÍA 'dotenv' PRESENTA LÍOS PARA INSTALAR, UTILIZAR ESTE COMANDO ADICIONAL EN LA CONSOLA:   python -m pip install python-dotenv
 
 
-#### ALGUNA DUDA ME LA PUEDEN DEJAR EN EL CORREO: 0xsnake55@gmail.com 
+ 
 #### CREADOR: DANIEL BUSTAMANTE O. 🦉🖤20/07/2023🖤🦉
-# AsistenteDeEscritorio
+#### CONTACTO: 0xsnake55@gmail.com
